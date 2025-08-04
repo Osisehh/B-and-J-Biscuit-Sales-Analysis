@@ -20,6 +20,7 @@ The dashboards are powered by **VBA macros** that allow users to:
 
 ## 📊 Dashboard 1: Sales Overview  
 🎯 **What is selling, where, and to whom?**
+![Sales_Overview](https://github.com/Osisehh/B-and-J-Biscuit-Sales-Analysis/blob/main/Dashboard%20Images/Sales%20Overview.png)
 
 **KPIs:**  
 - Units Sold: **3.1M**  
@@ -40,6 +41,7 @@ Revenue is **geographically concentrated** in 2–3 cities and **driven by loyal
 
 ## 📊 Dashboard 2: Profit Analysis  
 🎯 **Where are we making the most money?**
+![Profit_Analysis](https://github.com/Osisehh/B-and-J-Biscuit-Sales-Analysis/blob/main/Dashboard%20Images/Profit%20Analysis.png)
 
 **KPIs:**  
 - Total COGS: **$34.8M**  
@@ -65,6 +67,7 @@ Revenue is **geographically concentrated** in 2–3 cities and **driven by loyal
 
 ## 📊 Dashboard 3: Revenue Dynamics  
 🎯 **How efficiently are we selling?**
+![Revenue_Dynamics](https://github.com/Osisehh/B-and-J-Biscuit-Sales-Analysis/blob/main/Dashboard%20Images/Revenue%20Dynamics.png)
 
 **KPIs:**  
 - Profit per Transaction: **$2.2K**  
@@ -113,7 +116,7 @@ If Travis Doyle exits or premium demand drops, **revenue risk is high**.
 ---
 
 ## 📚 What I Learned
-- **Data storytelling is powerful** — executives care about **why**, not just **what**  
+- **Data storytelling is powerful** - executives care about **why**, not just **what**  
 - **Macro automation** (toggles & slicer resets) dramatically improves UX  
 - **Identifying concentration risks** is key to actionable recommendations  
 - **Excel + Power Query + VBA** can rival dedicated BI tools for decision-making  
